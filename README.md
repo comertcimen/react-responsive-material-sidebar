@@ -7,8 +7,6 @@ This is a reponsive sidebar example built with React, MaterialUI, Redux and Reac
 
 ## Demo
 
-Insert gif or link to demo
-
 [Demo Netlify](https://react-responsive-material-sidebar.netlify.app/)
 ## Installation
 
